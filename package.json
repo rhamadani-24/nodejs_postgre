@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_api",
+  "version": "1.0.0",
+  "description": "api postgre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016\u0016https:/github.com/rhamadani-24/nodejs_postgre.git"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "daniel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
